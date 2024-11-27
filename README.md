@@ -34,8 +34,7 @@ I'm 杨人瑞, a office worker from Ningbo, China. I like code because I am a co
  
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/yangrenruiyrr"><img src="https://img.shields.io/badge/GitHub-zhao2022--Ux-blue?logo=github" /></a>
-<img src="https://img.shields.io/badge/QQ-1023061394-green?logo=tencentqq" />
+<a href="https://github.com/yangrenruiyrr"><img src="https://img.shields.io/badge/GitHub-YANGRENRUIYRR-blue?logo=github" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=yangrenruiyrr&abbreviated=true&color=yellow" />
 </p>
