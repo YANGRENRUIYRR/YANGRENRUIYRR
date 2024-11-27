@@ -3,15 +3,10 @@
 
 I'm 杨人瑞, a office worker from Ningbo, China. I like code because I am a coder.
 
--   :hammer_and_pick: CSS/HTML/JavaScript/Vue/Typescript/React/PHP/C++/Python
+-   :hammer_and_pick: CSS / HTML / JavaScript / Vue / Typescript / React / PHP / C++ / Python
 -   :pencil2: VS Code / Notepad++ / Navicat / Dev-C++ / IDLE
 -   :man: Pronouns: he/him
 
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+like+C++!" />
-</p>
- 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yangrenruiyrr&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
