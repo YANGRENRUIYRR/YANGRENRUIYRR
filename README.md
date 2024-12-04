@@ -34,3 +34,5 @@ I'm 杨人瑞, a office worker from Ningbo, China. I like code because I am a co
 <img src="https://komarev.com/ghpvc/?username=yangrenruiyrr&abbreviated=true&color=yellow" />
 </p>
  
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
