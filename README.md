@@ -20,7 +20,7 @@ I'm 杨人瑞, a office worker from Ningbo, China. I like code because I am a co
 <br/>
   
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,html,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,html,md,ts,js,css&theme=light" />
 </p>
  
 <!-- https://github.com/badges/shields -->
