@@ -12,11 +12,11 @@ I'm 杨人瑞, a office worker from Ningbo, China. I like code because I am a co
 <img align="center" width="400" src="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/github-readme-stats_YANGRENRUIYRR.svg" />
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yangrenruiyrr&theme=github-compact&hide_border=true&area=true">
+<img width="800" src="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/graph_YANGRENRUIYRR.svg">
 <br/>
   
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangrenruiyrr&theme=transparent&include_all_commits=true&show_icons=true&bg_color=DEG,FF0000,FFFF00" />
+<img align="center" src="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/top-langs_YANGRENRUIYRR.svg" />
 <br/>
   <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
@@ -26,6 +26,4 @@ I'm 杨人瑞, a office worker from Ningbo, China. I like code because I am a co
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/yangrenruiyrr"><img src="https://img.shields.io/badge/GitHub-YANGRENRUIYRR-blue?logo=github" /></a>
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=yangrenruiyrr&abbreviated=true&color=yellow" />
 </p>
