@@ -9,14 +9,9 @@ I'm 杨人瑞, a office worker from Ningbo, China. I like code because I am a co
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/github-readme-stats_YANGRENRUIYRR.svg" />
+![Stats Light](https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/github-readme-stats_YANGRENRUIYRR.light.svg#gh-light-mode-only)
+![Stats Dark](https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/github-readme-stats_YANGRENRUIYRR.dark.svg#gh-dark-mode-only)
 
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/graph_YANGRENRUIYRR.svg">
-<br/>
-  
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/top-langs_YANGRENRUIYRR.svg" />
 <br/>
   <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
