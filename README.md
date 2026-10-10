@@ -10,8 +10,8 @@ I'm 杨人瑞, a office worker from Ningbo, China. I like code because I am a co
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/github-readme-stats_YANGRENRUIYRR.dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/github-readme-stats_YANGRENRUIYRR.light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/github-readme-stats_yangrenruiyrr.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/github-readme-stats_yangrenruiyrr.light.svg">
   <img width="400" align="center" alt="YANGRENRUIYRR Github Stats" src="https://raw.githubusercontent.com/YANGRENRUIYRR/profile-readme-stats-card/refs/heads/master/github-readme-stats_YANGRENRUIYRR.light.svg" />
 </picture>
 
